@@ -1,0 +1,118 @@
+li {
+  display: inline;
+}
+li {
+  float: right;
+margin-right: 25px;
+}
+
+
+a {
+  display: block;
+  padding: 8px;
+  background-color: #ffffff;
+}
+ul {
+  background-color: #dddddd;
+}
+h1{
+  
+    margin-left: 200px;  
+    margin-top: 80px;
+}
+body{
+  width: 90%;
+margin:0 auto ;
+}
+
+h1{
+  color: rgb(0, 255, 213);
+}
+
+.pp{
+
+margin-left: 50px;
+
+}
+#parag{
+  display: flex;
+ padding-left: 50px;
+}
+
+#leftbox{
+float: left;
+background: rgb(0, 255, 213);
+width: 25%; ;
+height: 300px; ;
+}
+#leftbox{
+
+margin-left: 50px;
+margin-top: 100px;
+}
+
+
+#middlebox{
+float:left;
+background: rgb(0, 68, 255);
+width:25% ;
+height: 300px; ;
+}
+#middlebox{
+
+margin-left: 15px;
+margin-top: 100px;
+}
+#rightbox{
+float: right;
+background: rgb(12, 12, 12);
+width: 25%;
+height:300px ;
+}
+#rightbox{
+  margin-right: 220px;
+  margin-top: 100px;
+}
+
+
+h3{
+color: blanchedalmond;
+}
+#middlebox,#rightbox,#leftbox  {
+color: #dddddd;
+}
+h2:before {
+content: 'Docplanner';
+color: #00ffdd;
+
+}
+h2:after {
+content: 'group';
+color: #979393;
+
+}
+#navbar{
+  margin-left: 30px;
+}
+body{
+  margin-left: 120px;
+}
+h4{
+  margin-left: 50px;
+color: #00ffdd;
+}
+label {
+  font-family: sans-serif;
+  font-size: 1rem;
+  padding-right: 10px;
+}
+
+.select {
+  font-size: .9rem;
+  padding: 2px 5px;
+}
+#for doctor{
+  font-size: .9rem;
+  padding: 2px 5px;
+}
+
